@@ -27,6 +27,7 @@ Turns a long blog post or article into 8–10 slides of LinkedIn or Instagram ca
 
 ### Basic Usage
 
+
 ```
 Turn this blog into a carousel: [paste blog or URL]
 ```
